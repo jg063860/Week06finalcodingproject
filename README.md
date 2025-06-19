@@ -1,1 +1,1 @@
-# Week06finalcodingproject
+# Week 06 Java Final Project
